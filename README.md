@@ -64,35 +64,37 @@
 
 ## 项目截图
 
+> 以下为系统关键界面，截图文件请放置于 `./screenshots/` 目录
+
 ### 登录界面（三端入口）
-![登录界面](./screenshots/login.png)
+<img src="./screenshots/login.png" alt="登录界面" width="250" />
 
 ### 患者端 - 数据上传
-![数据上传](./screenshots/upload-data.png)
+<img src="./screenshots/upload-data.png" alt="数据上传" width="250" />
 
 ### 患者端 - 用药中心
-![用药中心](./screenshots/medication.png)
+<img src="./screenshots/medication.png" alt="用药中心" width="250" />
 
 ### 患者端 - 线上问诊
-![线上问诊](./screenshots/consultation.png)
+<img src="./screenshots/consultation.png" alt="线上问诊" width="250" />
 
 ### 医生端 - 抢单大厅
-![抢单大厅](./screenshots/grab-order.png)
+<img src="./screenshots/grab-order.png" alt="抢单大厅" width="250" />
 
 ### 医生端 - 开处方
-![开处方](./screenshots/prescription.png)
+<img src="./screenshots/prescription.png" alt="开处方" width="250" />
 
 ### 管理员端 - 医生管理
-![医生管理](./screenshots/admin-doctor.png)
+<img src="./screenshots/admin-doctor.png" alt="医生管理" width="250" />
 
 ### 管理员端 - 积分核销
-![积分核销](./screenshots/admin-points.png)
+<img src="./screenshots/admin-points.png" alt="积分核销" width="250" />
 
 ## 原型图（Axure）
 
 > 项目前期使用 Axure 完成了完整的原型设计，涵盖患者、医生、管理员三端所有核心页面。
 
-![原型图-患者端](./screenshots/prototype-patient.png)
+<img src="./screenshots/prototype-patient.png" alt="原型图-患者端" width="250" />
 
 ## PRD 文档片段
 
