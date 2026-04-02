@@ -64,8 +64,6 @@
 
 ## 项目截图
 
-> 以下为系统关键界面，截图文件请放置于 `./screenshots/` 目录
-
 ### 登录界面（三端入口）
 <img src="./screenshots/login.png" alt="登录界面" width="250" />
 
